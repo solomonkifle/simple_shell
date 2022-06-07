@@ -88,5 +88,5 @@ README.md: this.
 
 ### Contact Info:
 
-Git: [Solomon kifle (https://github.com/soloonkifle), [Maedot Mellion](https://github.com/maedotmellion)
+Git: [Solomon kifle (https://github.com/solomonkifle), [Maedot Mellion](https://github.com/maedotmellion)
 
