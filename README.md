@@ -30,7 +30,7 @@ Clone the below repository and compile the files into an executable using the GC
 
 
 
-https://github.com/Fraol123/simple_shell.git.
+https://github.com/solomonkifle/simple_shell.git.
 
 ##Environment 🌲🌲
 
